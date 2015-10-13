@@ -6,7 +6,7 @@ package wj;
  * Time:21:24
  */
 /*Problem:
-*二维数组，数组从左到右递增，从上到下递增
+*二维数组，数组从左到右递增，从上到下递增add from github 
 **/
 public class SearchA2DMatrix {
     public boolean searchMatrix(int[][] matrix, int target) {
